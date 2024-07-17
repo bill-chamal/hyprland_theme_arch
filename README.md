@@ -8,7 +8,7 @@ Original forked from https://github.com/SolDoesTech/hyprland (outdated)
 
 In this repository, config files are updated to support the lasted changes from Hyprland and Waybar and also some bugs fixed.
 
-To install execute "set-hypr" to install everything for you.
+To install everything execute "set-hypr".
 
 ## The list of packages
 

@@ -2,7 +2,7 @@
 
 Hyprland theme with a collection config files that contribute to the overall outlook.
 
-[Desktop view of hyprland arch linux](img/desktop.png)
+![Desktop view of hyprland arch linux](img/desktop.png)
 
 Original forked from https://github.com/SolDoesTech/hyprland (outdated)
 

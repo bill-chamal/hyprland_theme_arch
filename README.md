@@ -10,6 +10,8 @@ In this repository, config files are updated to support the lasted changes from 
 
 To install everything execute "set-hypr".
 
+<code> sudo ./set-hypr </code>
+
 ## The list of packages
 
 - hyprland: This is the Hyprland compositor

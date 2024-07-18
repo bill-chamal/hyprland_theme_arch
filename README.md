@@ -6,16 +6,16 @@ Hyprland theme with a collection of <code>.conf</code> files that contribute to 
 
 _Original forked from https://github.com/SolDoesTech/hyprland (outdated, not licensed 18/7/24)_
 
-In this repository, config files are updated to support the lasted changes from Hyprland and Waybar and also some bugs fixed.
+In this repository, config files are updated to support the lasted changes from Hyprland and Waybar and also some bugs has been fixed.
 
 ## Bugs fixed
 
-- **At Waybar**
-  - Tima date wrong format
-  - Weather 
+- **Waybar**
+  - Time - date wrong format
+  - Weather changed to Celsius and region added
   - Workspaces renamed to <code>hyprland/workspaces</code> in newer version
   - Bluetooth could not be displayed if it was blocked
-  - Tempeture is using the right sensor for monitor
+  - Tempeture is now using the right sensor for monitoring
 - **Hyprland**
   -  Touchbar scroll speed and direction
   -  Error code in master and device fixed (differents names in the newer versions) 

@@ -29,7 +29,7 @@
         "format": "{}"
     },
 
-    // Supported by newer versions of hyprland and waybar
+    
     "hyprland/workspaces": {
         "format": "{name}",
 
@@ -41,22 +41,24 @@
 
 
     "custom/weather": {
-        //shows the current weather and forecast in Celsius
+        //shows the current weather and forecast
         "tooltip": true,
         "format": "{}",
         "interval": 30,
         "exec": "~/.config/waybar/scripts/waybar-wttr.py",
         "return-type": "json"
     },
+
     "tray": {
         "icon-size": 18,
         "spacing": 10
     },
+
     "clock": {
-        "format": "{:%I:%M %p %a, %b %e}",
+        "format": "{:%I:%M %p, %a %e %b}",
         "tooltip-format": "<tt><small>{calendar}</small></tt>"
-        // "tooltip-format": "<big>{:%Y %B}</big>\n<tt><small>{calendar}</small></tt>"
     },
+    
     "backlight": {
         "device": "intel_backlight",
         "format": "{icon} {percent}%",
@@ -151,7 +153,6 @@
         "format": " {status}",
         "format-disabled": " blocked",
         "format-connected": " {num_connections}",
-        // Display the device's name with battery
         // "format-connected": " {device_alias}",
         // "format-connected-battery": " {device_alias} {device_battery_percentage}%",
         "format-device-preference": [

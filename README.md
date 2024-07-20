@@ -6,7 +6,7 @@ Hyprland theme with a collection of <code>.conf</code> files that contribute to 
 
 _Original forked from https://github.com/SolDoesTech/hyprland (outdated, not licensed 18/7/24)_
 
-In this repository, config files are updated to support the lasted changes from Hyprland and Waybar and also some bugs has been fixed.
+In this repository, config files are updated to support the latest changes from Hyprland and Waybar and also some bugs has been fixed.
 
 ## Bugs fixed
 
